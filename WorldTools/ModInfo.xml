@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="WorldTools" />
+		<Description value="World Editing Commands and Utilities" />
+		<Author value="Justin 'Chromecide' Pradier" />
+		<Version value="1" />
+		<Website value="https://chromecide.com/mods/7d2d/worldtools" />
+	</ModInfo>
+</xml>
